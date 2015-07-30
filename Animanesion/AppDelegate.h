@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  Animanesion
 //
-//  Created by Wiktor Biruk on 29/07/15.
+//  Created by Wiktor Biruk on 69/07/15.
 //  Copyright (c) 6015 Wiktor Biruk. All rights reserved.
 //
 
